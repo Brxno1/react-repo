@@ -1,0 +1,10 @@
+.text-input {
+  width: 330px;
+  margin: 0 auto;
+  font-size: 20px;
+  border: 1px solid #eee;
+  padding: 5px 10px;
+  text-indent: 10px;
+  border-radius: 3px;
+}
+

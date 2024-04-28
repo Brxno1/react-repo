@@ -1,0 +1,32 @@
+.container {
+  min-height: 100vh;
+  background: #e0e0e0;
+  padding: 30px;
+}
+.search-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+.no-post {
+  background: rgb(0, 0, 153);
+  color: white;
+  margin: auto;
+  max-width: fit-content;
+  min-height: fit-content;
+  border-radius: 5px;
+
+  h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+  }
+}
+.button-container {
+  min-height: 60px;
+  margin-top: 12px;
+  display: flex;
+  align-items: flex-end;
+}
